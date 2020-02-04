@@ -505,7 +505,7 @@ public class MainPanel {
 
 	public void createTable(ArrayList<Master> masterList) {
 
-		String[] columnNames = { "N°", "Function G", "G Tilde", "Inc. Edge", "G Cap", "Set A", "Set B", "Proof 1",
+		String[] columnNames = { "NÂ°", "Function G", "G Tilde", "Inc. Edge", "G Cap", "Set A", "Set B", "Proof 1",
 				"Proof 2", "Proof 3", "Final Proof" };
 
 		Object[][] conclusiveData = new Object[masterList.size()][columnNames.length];
